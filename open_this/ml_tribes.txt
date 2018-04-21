@@ -1,0 +1,9 @@
+Symbolists - The origin of this tribe is in logic and philosophy. This group relies on inverse deduction to solve problems.
+
+Connectionists - The origin of this tribe is in neurosciences. This group relies on backpropogation to solve problems.
+
+Evolutionaries - The origin of this tribe is in biology. This group relies on genetic programming to solve problems.
+
+Bayesians - The origin of this tribe is in statistics. This group relies on probabilistic inference to solve problems.
+
+Analogizers - The origin of this tribe is in psychology. This group relies on kernel machines to solve problems.

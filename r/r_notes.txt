@@ -1,0 +1,39 @@
+R-objects to store data
+1. Vectors
+2. Lists
+3. Matrices
+4. Arrays
+5. Factors
+6. Data frames
+
+
+matrix(data, nrow, ncol, byrow, dimnames)
+1. data - Defines the data used to fill the data elements in the matrix. The data normally appears as part of a vector
+2. nrow - Specifies the number of rows to create.
+3. ncol - Specifies the number of columns to create.
+4. byrow - Defines the arrangement of the vector elements within the matrix. When set to TRUE, R arranges the vector elements by row.
+5. dimnames - Determines the names assigned to the rows and columns.
+
+
+array(data, dim, dimnames)
+1. data - Defines the data used to fill the data elements in the matrix. The data normally appears as part of a vector
+2. dim - Specifies the number of rows to create
+3. dimnames - Determines the names assigned to the rows and columns.
+
+
+Data Frames - Data Frames are tabular structures akin to matrix or a two-dimensional array in that they have rows and columns. However, data frames work more like a database. Each column represents a variable and each row a record.
+
+
+mean(x, trim = 0, na.rm = FALSE)
+1. x - Contains the input vector
+2. trim - Determines the number of observations to drop from both ends of the sorted vector
+3. na.rm - Specifies whether to remove the missing values from the input vector
+
+
+barplot(H, xlab, ylab, main, names.arg, col)
+1. H - Supplies a vector or matrix containing numeric values used in the bar chart
+2. xlab - Defines a label for the x-axis
+3. ylab - Defines a label for the y-axis
+4. main - Specifies a title for the chart
+5. names.arg - Supplies a vector of names that appear under each bar
+6. col - Contains a list of colors to use to color the bars in the graph

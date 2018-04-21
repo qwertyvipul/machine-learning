@@ -1,0 +1,1 @@
+Machine Learning relies on algorithms to analyze huge datasets. It is used to perform predictive analysis.
