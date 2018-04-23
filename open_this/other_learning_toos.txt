@@ -1,0 +1,6 @@
+1. Weka - Java, Academia, Business Intelligence, not for huge datasets.
+2. LIBSVM - Huge number of languages
+3. Vowpal Wabbit - Open source, Fast, Microsoft Research Project
+4. Knime - Pharmaceutical industry, GUI based, integrates with both Weka and LIBSVM.
+5. RapidMiner - Businness Needs, ebay, Intel, PepsiCo, etc
+6. Spark - Fast, works with huga datasets, high learning curve depends on you.

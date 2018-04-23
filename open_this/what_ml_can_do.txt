@@ -1,1 +1,8 @@
 Machine Learning relies on algorithms to analyze huge datasets. It is used to perform predictive analysis.
+
+Some practical applications -
+1. Diagnosing hard to find diseases
+2. Discovering criminal behaviour and detecting criminals in action
+3. Recommending the right product to the right person
+4. Filtering and classifying data from the internet at an enormous scale
+5. Driving a car autonomously
