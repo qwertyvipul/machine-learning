@@ -1,6 +1,6 @@
 # ml_getting_started
 
-[Click here](/SUMMARY.md) to get into the world of machine learning.
+[Click here](/SUMMARY.md) to get into the world of Machine Learning.
 
 ```markdown
 References -
