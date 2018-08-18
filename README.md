@@ -3,6 +3,11 @@
 [Click here](/SUMMARY.md) to get into the world of Machine Learning.
 
 ```markdown
+Tutorials - 
+1. [https://pythonprogramming.net/machine-learning-tutorial-python-introduction/](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
+```
+
+```markdown
 References -
 1. Machine Learning (in Python and R) for dummies - John Paul Muller and Luca Massaron
 ```
