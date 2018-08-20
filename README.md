@@ -1,6 +1,4 @@
-# ml_getting_started
-
-[Click here](/SUMMARY.md) to get into the world of Machine Learning.
+# Machine Learning
 
 ### Tutorials - 
 1. https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
