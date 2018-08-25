@@ -1,0 +1,1 @@
+https://pythonprogramming.net/static/downloads/machine-learning-data/titanic.xls
