@@ -14,3 +14,16 @@
 1. Machine Learning (in Python and R) for dummies - John Paul Muller and Luca Massaron
 ```
 
+### Topics covered - 
+```markdown
+1. Linear Regression
+2. K-Nearest Nighbors
+3. Support Vector Machines (SVM)
+4. KMeans Semi-Supervised Learning
+5. Means Shift Unsupervised Learning
+6. Tensorflow
+```
+
+### Useful Links - 
+1. https://themarketmogul.com/hedging-machine-learning/
+
