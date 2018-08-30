@@ -24,6 +24,12 @@
 6. Tensorflow
 ```
 
+## Projects - 
+**[Reverse Calculator](/projects/reverse_calculator)**
+```markdown
+Given three numbers - the model would predict the relation of the third number with the first two numbers.
+```
+
 ### Useful Links - 
 1. https://themarketmogul.com/hedging-machine-learning/
 
