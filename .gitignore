@@ -1,3 +1,4 @@
 
 datasets/sentiment140/training.1600000.processed.noemoticon.csv
 sentdex/jupyter/sentiment_set.pickle
+tensorflow/.ipynb_checkpoints/first-neural-network-checkpoint.ipynb
