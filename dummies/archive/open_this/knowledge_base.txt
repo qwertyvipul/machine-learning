@@ -1,3 +1,0 @@
-1. Probability, linear algebra, linear programming and multivariable calculus.
-2. Sophisticated computing skills to translate math into working code.
-3. Statistics

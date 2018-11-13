@@ -1,3 +1,0 @@
-1. SAS - https://www.sas.com/en_us/home.html
-2. STATA - https://www.stata.com/
-3. SPSS - http://www-01.ibm.com/software/analytics/spss/
