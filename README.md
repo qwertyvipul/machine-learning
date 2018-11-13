@@ -1,7 +1,7 @@
 # Machine Learning
 
 ### Installing Jupyter Noteboook
-[Click Here](https://jupyter.org/install.html)
+[Click here to find out!](https://jupyter.org/install.html)
 ```markdown
 There are two ways to this - 
 1. Anaconda way
