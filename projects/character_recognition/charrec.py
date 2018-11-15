@@ -7,6 +7,7 @@ from statistics import mean # To find mean of the array
 from collections import Counter # To track the similar match matrix from dataset
 import os # To manipulate files
 
+
 def threshold(image_array):
     balance_array = []
     new_array = image_array.copy()
@@ -36,6 +37,7 @@ def threshold(image_array):
                 
     return new_array
 
+
 # Function to generate the training dataset from the number images
 def createNumberExamples():
     file_name = 'examples/number_array_examples.txt'
@@ -60,6 +62,7 @@ def createNumberExamples():
             number_array_examples.write(line_to_write)
             
 createNumberExamples()
+
 
 # Function to generate the training dataset from the alphabet images
 def createAlphabetExamples():
@@ -86,6 +89,7 @@ def createAlphabetExamples():
             
 createAlphabetExamples()
 
+
 # Function to generate the training dataset from the devnagri images
 def createDevnagriExamples():
     file_name = 'examples/devnagri_array_examples.txt'
@@ -110,6 +114,7 @@ def createDevnagriExamples():
             devnagri_array_examples.write(line_to_write)
             
 createDevnagriExamples()
+
 
 # Function to guess the probability of a given image to be a prticular image
 def guessTheNumber(file_path):
@@ -142,30 +147,8 @@ def guessTheNumber(file_path):
                 
     # print(matched_array)
     x = Counter(matched_array)
-    # print(x)
+    plotResult(x, image_array)
     
-    graph_x = []
-    graph_y = []
-    
-    for each_key in x:
-        # print(each_key)
-        graph_x.append(each_key)
-        # print(x[each_key])
-        graph_y.append(x[each_key])
-        
-    fig = plt.figure()
-    ax_1 = plt.subplot2grid((4, 4), (0, 0), rowspan = 1, colspan = 4)
-    ax_2 = plt.subplot2grid((4, 4), (1, 0), rowspan = 3, colspan = 4)
-    
-    ax_1.imshow(image_array)
-    ax_2.bar(graph_x, graph_y, align = 'center')
-    # plt.ylim(400)
-    
-    xloc = plt.MaxNLocator(12)
-    
-    ax_2.xaxis.set_major_locator(xloc)
-    
-    plt.show()
     
 # Function to guess the probability of a given image to be a prticular image
 def guessTheAlphabet(file_path):
@@ -199,29 +182,8 @@ def guessTheAlphabet(file_path):
     # print(matched_array)
     x = Counter(matched_array)
     # print(x)
+    plotResult(x, image_array)
     
-    graph_x = []
-    graph_y = []
-    
-    for each_key in x:
-        # print(each_key)
-        graph_x.append(each_key)
-        # print(x[each_key])
-        graph_y.append(x[each_key])
-        
-    fig = plt.figure()
-    ax_1 = plt.subplot2grid((4, 4), (0, 0), rowspan = 1, colspan = 4)
-    ax_2 = plt.subplot2grid((4, 4), (1, 0), rowspan = 3, colspan = 4)
-    
-    ax_1.imshow(image_array)
-    ax_2.bar(graph_x, graph_y, align = 'center')
-    # plt.ylim(400)
-    
-    xloc = plt.MaxNLocator(12)
-    
-    ax_2.xaxis.set_major_locator(xloc)
-    
-    plt.show()
     
 # Function to guess the probability of a given image to be a prticular image
 def guessTheDevnagri(file_path):
@@ -255,7 +217,11 @@ def guessTheDevnagri(file_path):
     # print(matched_array)
     x = Counter(matched_array)
     # print(x)
+    plotResult(x, image_array)
     
+    
+# Function to plot the given test number and the relative estimates on graph
+def plotResult(x, image_array):
     graph_x = []
     graph_y = []
     
@@ -278,6 +244,7 @@ def guessTheDevnagri(file_path):
     ax_2.xaxis.set_major_locator(xloc)
     
     plt.show()
+
     
 # Guessing the number
 guessTheNumber('images/numbers/0.7.png')
