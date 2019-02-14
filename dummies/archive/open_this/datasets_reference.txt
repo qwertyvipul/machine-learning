@@ -1,6 +1,0 @@
-1. load_boston() - Regression analysis with the Boston house-price dataset
-2. load_iris() - Classification with the iris dataset
-3. load_diabetes() - Regression with the diabetes dataset
-4. load_digits([n_class]) - Classification with the digits dataset
-5. fetch_20newsgroups(subset='train') - Data from 20 newsgroups
-6. fetch_olivetti_faces(): Olivetti faces dataset from AT&T

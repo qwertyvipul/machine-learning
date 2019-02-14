@@ -1,4 +1,0 @@
-Different Filters:
-1. Median filter - Based on the idea that the true signal comes from a median of a neighbour of pixels.
-2. Total variation denoising - Based on the idea that noise is variance and this filter reduces the variance.
-3. Gaussian filter - Uses a Gaussian function to define the pixels to smooth.

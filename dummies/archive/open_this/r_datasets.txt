@@ -1,9 +1,0 @@
-1. R datasets package - https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/001Index.html
-
-2. Boston - https://stat.ethz.ch/R-manual/R-devel/library/MASS/html/Boston.html
-
-3. Air Quality (airquality) - https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/airquality.html
-
-4. Iris - https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/iris.html
-
-5. SMS Spam Collection (sms_data) - http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/

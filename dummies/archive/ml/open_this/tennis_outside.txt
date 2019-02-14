@@ -1,4 +1,0 @@
-1. Outlook - Sunny, overcast or rain
-2. Temperature - Cool, mid, hot
-3. Humidity - High or normal
-4. Windy - True or false

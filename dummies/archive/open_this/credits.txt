@@ -1,3 +1,0 @@
-1. Machine Learning (in Python and R) for dummies
-    -John Paul Mueller
-    -Luca Massaron

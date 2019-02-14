@@ -1,4 +1,0 @@
-1. Scikit
-2. scipy.ndimage
-3. OpenCv
-4. ITK
