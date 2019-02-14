@@ -7,7 +7,7 @@ There are two ways to this -
 1. Anaconda way
 2. Pip way
 
-I prefer the later you might waana try both.
+I prefer the later you might wanna try both.
 ```
 
 ### References - 
@@ -18,6 +18,12 @@ I prefer the later you might waana try both.
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning)
 * [Kaggle](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
 * [Machine Learning Mastery](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+
+
+### Good Links
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [3 Brown 1 Blue](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+
 
 ### Books -  
 ```markdown
