@@ -1,8 +1,4 @@
-
-datasets/sentiment140/training.1600000.processed.noemoticon.csv
 sentdex/jupyter/sentiment_set.pickle
-tensorflow/.ipynb_checkpoints/first-neural-network-checkpoint.ipynb
-image-recognition/digit-recognition/sentdex/.ipynb_checkpoints/Untitled-checkpoint.ipynb
-image-recognition/digit-recognition/sentdex/.ipynb_checkpoints/imagerec-checkpoint.ipynb
-noob/sentiment_set.pickle
-projects/character_recognition/.ipynb_checkpoints/charrec-checkpoint.ipynb
+tensorflow/.ipynb_checkpoints/*
+image-recognition/digit-recognition/sentdex/.ipynb_checkpoints/*
+projects/character_recognition/.ipynb_checkpoints/*
