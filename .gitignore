@@ -2,3 +2,7 @@
 datasets/sentiment140/training.1600000.processed.noemoticon.csv
 sentdex/jupyter/sentiment_set.pickle
 tensorflow/.ipynb_checkpoints/first-neural-network-checkpoint.ipynb
+*.pickle
+image-recognition/digit-recognition/sentdex/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+image-recognition/digit-recognition/sentdex/.ipynb_checkpoints/imagerec-checkpoint.ipynb
+projects/character_recognition/.ipynb_checkpoints/charrec-checkpoint.ipynb
