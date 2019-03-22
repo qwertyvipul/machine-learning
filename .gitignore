@@ -1,4 +1,18 @@
+
+datasets/sentiment140/training.1600000.processed.noemoticon.csv
 sentdex/jupyter/sentiment_set.pickle
-tensorflow/.ipynb_checkpoints/*
-image-recognition/digit-recognition/sentdex/.ipynb_checkpoints/*
-projects/character_recognition/.ipynb_checkpoints/*
+tensorflow/.ipynb_checkpoints/first-neural-network-checkpoint.ipynb
+*.pickle
+image-recognition/digit-recognition/sentdex/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+image-recognition/digit-recognition/sentdex/.ipynb_checkpoints/imagerec-checkpoint.ipynb
+projects/character_recognition/.ipynb_checkpoints/charrec-checkpoint.ipynb
+*.DS_Store
+*.RData
+*.Rhistory
+*.zip
+courses/udemy/p14 Machine Learning A-Z/Machine Learning A-Z/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/P14-Artificial-Neural-Networks/Artificial_Neural_Networks/Churn_Modelling.csv
+courses/udemy/p14 Machine Learning A-Z/Machine Learning A-Z/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/P14-Artificial-Neural-Networks/__MACOSX/Artificial_Neural_Networks/._Churn_Modelling.csv
+courses/udemy/p14 Machine Learning A-Z/Machine Learning A-Z/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/P14-Artificial-Neural-Networks/__MACOSX/Artificial_Neural_Networks/._Stochastic_Gradient_Descent.png
+courses/udemy/p14 Machine Learning A-Z/Machine Learning A-Z/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/P14-Artificial-Neural-Networks/Artificial_Neural_Networks/Stochastic_Gradient_Descent.png
+courses/udemy/p14 Machine Learning A-Z/Machine-Learning-A-Z-Q-A.pdf
+__MACOSX/
